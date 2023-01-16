@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @scraemon
 - 👀 I’m interested in C#, F#, Python, and Bash
-- 🌱 Currently leveling up on both .Net and Azure
-- :deciduous_tree: At work, I’m building Python microservices hosted on Azure, improving DevOps, and writing Python packages
-- 💞️ I’m looking to collaborate on APIs, microservices and developer tools relating to .Net: C# and F#
+- 🌱 Currently leveling up on both AWS and Azure
+- :deciduous_tree: At work, I’m building a Data Platform made up of Snowflake, dbt, Fivetran and Prefect, and writing Python microservices and packages.
+- 💞️ I’m looking to collaborate on APIs, microservices and developer tools relating to Python
 - 📫 How to reach me: (eye) (eh) (en) at (scream) (in) dot (calm) 
 
 <!---
